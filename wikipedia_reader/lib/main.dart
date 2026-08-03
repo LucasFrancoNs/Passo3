@@ -16,6 +16,7 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Instantiate your `ArticleViewModel` to test its HTTP requests.
+    return const MaterialApp(home: ArticleView());
     final viewModel = ArticleViewModel(ArticleModel());
 
     return MaterialApp(
