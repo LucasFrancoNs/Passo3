@@ -47,8 +47,3 @@ Quando o método `setState()` é chamado dentro de um `StatefulWidget`, ele noti
 * Editor de código (VS Code, Android Studio ou GitHub Codespaces).
 * Emulador Android/iOS, navegador Web ou dispositivo físico conectado.
 
-### Passo a Passo
-
-1. **Clonar este repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
